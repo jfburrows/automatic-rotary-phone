@@ -1,2 +1,0 @@
-# automatic-rotary-phone
-tutorial
